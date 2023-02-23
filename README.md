@@ -1,2 +1,2 @@
 # Data-Science-Engg-Methods
-Repo for coursework in INFO6105
+Repo for INFO6105 coursework
